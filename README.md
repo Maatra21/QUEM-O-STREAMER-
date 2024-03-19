@@ -8,6 +8,6 @@
     <p>Tenho 22 anos, sou do Ceará, mas moro em São Paulo.</p>
     <p>Sou ex professor de Robótica Educacional, e Campeão de Torneios como a TJR e a OBR.</p>
     <p>Atualmente, trabalho com stream para pagar as contas e poder construir um futuro para mim e para minha esposa, trago gameplays de Valorant, League of Legends e outros jogos.</p>
-    <p>Espero que gostem doS conteúdos!!.</p>
+    <p>Espero que gostem dos conteúdos!!.</p>
 </body>
 </html>
