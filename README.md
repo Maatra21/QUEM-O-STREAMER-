@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-    <h1>REGRAS</h1>
+    <h1>O Streamer</h1>
     <p>Meu nome é Raul Matos, sou conhecido como Zezé, Maatra ou Hint, depende do jogo kkk.</p>
     <p>Tenho 22 anos, sou do Ceará, mas moro em São Paulo.</p>
     <p>Sou ex professor de Robótica Educacional, e Campeão de Torneios como a TJR e a OBR.</p>
